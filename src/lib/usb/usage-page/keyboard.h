@@ -274,6 +274,14 @@
 #define MEDIAKEY_PREV_TRACK    0x01
 #define MEDIAKEY_NEXT_TRACK    0x02
 
+// Mac special codes
+//#define MAC_BRIGHTNESS_DOWN 0x91
+//#define MAC_BRIGHTNESS_UP   0x90
+//#define MAC_DASHBOARD       0x82
+//#define MAC_EXPOSE_ALL      0xa0
+//#define MAC_LAUNCHPAD       0x83
+//#define MAC_MISSION_CONTROL 0xa0
+
 // ----------------------------------------------------------------------------
 // ----------------------------------------------------------------------------
 #endif
